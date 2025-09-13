@@ -1,0 +1,31 @@
+div{
+    Height:200px;
+    border: 3px solid black;
+}
+.box2{
+    background-color: aqua;
+    position: relative;
+    top:10px;
+    right:20px;
+    left:15px;
+}
+.box3{
+    background-color: brown;
+    width:600px;
+    height: 600px;
+    position:fixed;
+    top: 30px;
+    right: 50px;
+}
+@media (max-width: 600px){
+    .phone{
+        font-size: 30px;
+    }
+
+}
+@media (max-width: 992px){
+    .desktop{
+        font-size:40px;
+    }
+    
+}

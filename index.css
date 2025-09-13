@@ -1,0 +1,23 @@
+h1{
+    color:red;
+    background-color: aqua;
+}
+div{
+    width: 100%;
+    max-width: 200px;
+}
+.brown{
+    color:brown
+}
+.purple{
+    color:purple
+}
+section{
+    border: 2px solid black;
+    height:80vh;
+    border: 3px solid black;
+}
+.box{
+    border: 2px solid black;
+
+}
